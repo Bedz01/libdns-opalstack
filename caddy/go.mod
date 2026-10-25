@@ -3,7 +3,7 @@ module github.com/bedz01/libdns-opalstack/caddy
 go 1.26.5
 
 require (
-	github.com/bedz01/libdns-opalstack v0.1.0
+	github.com/bedz01/libdns-opalstack v0.1.1
 	github.com/caddyserver/caddy/v2 v2.11.4
 )
 
