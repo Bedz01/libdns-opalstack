@@ -1,5 +1,7 @@
 code.pfad.fr/check v1.1.0 h1:GWvjdzhSEgHvEHe2uJujDcpmZoySKuHQNrZMfzfO0bE=
 code.pfad.fr/check v1.1.0/go.mod h1:NiUH13DtYsb7xp5wll0U4SXx7KhXQVCtRgdC96IPfoM=
+github.com/bedz01/libdns-opalstack v0.1.0 h1:TM+z+sFzlWcpR+8Qja65DZwgT+8/KfpJDgK5x/US3AA=
+github.com/bedz01/libdns-opalstack v0.1.0/go.mod h1:HMogQ7oRiNDuxgxVNn9VZBBeOPjVZmbFSnYTvE6hd3Y=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/caddyserver/caddy/v2 v2.11.4 h1:XKxkMTgNSizEvKG6QHue6cAsFOteU2qA61w2tKkCWi0=
